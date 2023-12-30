@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 date: 2023-12-30 01:38:00 +1100
-permalink: about/
+permalink: /about/
 summary: About Marcus Helvig
 ---
 

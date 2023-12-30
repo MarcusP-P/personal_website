@@ -2,7 +2,7 @@
 layout: page
 title: What I'm working on
 date: 2023-12-30 01:38:00 +1100
-permalink: now/
+permalink: /now/
 summary: A sumary of what I'm working on now.
 ---
 The biggest thing that I'm working on is developing an understanding of myself from the perspective of my Austism and ADHD diagnosis.

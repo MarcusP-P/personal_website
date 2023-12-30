@@ -2,7 +2,7 @@
 layout: page
 title: What I use
 date: 2023-12-30 01:38:00 +1100
-permalink: uses/
+permalink: /uses/
 summary: A sumary of what I'm using.
 ---
 A list of things I use day-to-day. This page is still very much in-progress.
