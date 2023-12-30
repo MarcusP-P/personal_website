@@ -1,4 +1,4 @@
-title: Marcus Helvig's site
+title: Marcus Unmasked
 author:
   name: Marcus Helvig
   email: blog@marcus.helvig.net
@@ -6,7 +6,11 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Marcus's home on the web.
+  Neurodiverse people mask in public; they hide their true nature and act in ways that they think neurotypicals expect us to act.
+  Unmasking is the act of dropping these pretences, and acting as we would act, without needing to fake it. This is my little 
+  corner of the web, where I can be free to not mask. If you are offended or upset by soemthing I've said, remember that you could
+  have taken soemthing in a way in which it wasn't meant to be. The onus is on you to talk to me about it, otherwise I'll assume
+  it's all good.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcus.helvig.net" # the base hostname & protocol for your site, e.g. http://example.com
