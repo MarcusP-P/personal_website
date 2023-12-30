@@ -1,0 +1,4 @@
+[submodule "theme"]
+	path = theme
+	url = https://github.com/MarcusP-P/minima-custom.git
+	branch = common-changes
