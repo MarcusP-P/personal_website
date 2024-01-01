@@ -49,10 +49,22 @@ minima-custom:
 
   # Generate social links in footer.
   social_links:
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
-    - { platform: github,         user_url: "https://github.com/MarcusP-P" }
-    - { platform: keybase,        user_url: "https://keybase.io/marcusp" }
-  #  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
-    - { platform: mastodon,        user_url: "https://mastodon.social/@MarcusP" }
+    -
+      platform: mastodon
+      title: Mastodon
+      user_url: "https://mastodon.social/@MarcusP"
+    - 
+      platform: github
+      title: GitHub
+      user_url: "https://github.com/MarcusP-P" 
+    - 
+      platform: keybase
+      title: Keybase
+      user_url: "https://keybase.io/marcusp"
+    - 
+      platform: rss
+      title: RSS Feed
+      user_url: "/feed.xml"
+
 
 
