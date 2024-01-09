@@ -2,6 +2,7 @@
 layout: null
 permalink: /robots.txt
 ---
+Sitemap: https://marcus.helvig.net/sitemap.xml
 
 # Google bots
 # see https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers
