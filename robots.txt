@@ -4,24 +4,6 @@ permalink: /robots.txt
 ---
 Sitemap: https://marcus.helvig.net/sitemap.xml
 
-# Google bots
-# see https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers
-
-User-agent: Googlebot
-Disallow:
-
-User-agent: Googlebot-Image
-Disallow:
-
-User-agent: Google-InspectionTool
-Disallow:
-
-User-agent: Google-Safety
-Disallow:
-
-User-agent: FeedFetcher-Google
-Disallow:
-
 # Apple's crawler.
 # https://support.apple.com/en-us/HT204683
 User-agent: Applebot
@@ -29,12 +11,63 @@ Disallow:
 
 # Baidau's Spider
 # https://www.baidu.com/search/robots_english.html
-#User-agent: Baiduspider
-#Disallow:
+User-agent: Baiduspider
+Disallow:
 
-# Microsoft's Bing
-# 
+# Bing Bots
+# URL https://www.bing.com/webmasters/help/which-crawlers-does-bing-use-8c184ec0
+
 User-agent: Bingbot
+Disallow:
+
+User-agent: BingPreview
+Disallow:
+
+User-agent: MicrosoftPreview
+Disallow:
+
+# Discord
+User-agent: Discordbot
+Disallow:
+
+# Facebook Bots
+# URL: https://developers.facebook.com/docs/sharing/webmasters/crawler/
+User-agent: facebookexternalhit
+Disallow:
+
+User-agent: facebookcatalog
+Disallow:
+
+# Google bots
+# see https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: FeedFetcher-Google
+Disallow:
+
+# Internet archive
+User-agent: ia_archiver
+Disallow:
+
+# LinkedIn
+User-agent: LinkedInBot
+Disallow:
+
+# Pinterest
+# https://help.pinterest.com/en/business/article/pinterest-crawler
+User-agent: Pinterestbot
+Disallow:
+
+# sesname
+# https://napoveda.seznam.cz/en/seznambot-crawler/
+User-agent: seznambot
+Disallow:
+
+# Yahoo
+# https://help.yahoo.com/kb/SLN22600.html
+User-agent: Slurp
 Disallow:
 
 
