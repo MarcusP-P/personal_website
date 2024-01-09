@@ -14,8 +14,6 @@ url: "https://marcus.helvig.net" # the base hostname & protocol for your site, e
 
 timezone: Australia/Melbourne
 
-# Build settings
-
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima-custom
 
@@ -72,5 +70,8 @@ minima-custom:
       title: RSS Feed
       user_url: "/feed.xml"
 
-
+# Serch engine verifications
+webmaster_verifications:
+  google: oQ1SNvLLThKyzprtyxtq6Ln0rpyB3zpWw
+  bing: 6822EEAA21427BC40902F9A9FD16EC9E
 

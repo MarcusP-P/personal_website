@@ -2,5 +2,42 @@
 layout: null
 permalink: /robots.txt
 ---
+
+# Google bots
+# see https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: Google-InspectionTool
+Disallow:
+
+User-agent: Google-Safety
+Disallow:
+
+User-agent: FeedFetcher-Google
+Disallow:
+
+# Apple's crawler.
+# https://support.apple.com/en-us/HT204683
+User-agent: Applebot
+Disallow:
+
+# Baidau's Spider
+# https://www.baidu.com/search/robots_english.html
+#User-agent: Baiduspider
+#Disallow:
+
+# Microsoft's Bing
+# 
+User-agent: Baiduspider
+Disallow:
+
+
 User-agent: *
 Disallow: /
+
+
