@@ -30,6 +30,11 @@ Disallow:
 User-agent: Discordbot
 Disallow:
 
+# DuckDuckGo
+# https://duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/
+User-agent: DuckDuckBot
+Disallow:
+
 # Facebook Bots
 # URL: https://developers.facebook.com/docs/sharing/webmasters/crawler/
 User-agent: facebookexternalhit
