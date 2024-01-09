@@ -20,6 +20,7 @@ theme: minima-custom
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 
 collections:
   pages:
@@ -42,10 +43,13 @@ show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima-custom:
+
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #date_format: "%b-%d-%Y"
+  #date_format: "%A %e %B %y %l:%M %p"
+  date_format: "%A %e %B %y %l:%M %p"
 
   # Generate social links in footer.
   social_links:
