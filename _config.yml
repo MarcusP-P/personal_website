@@ -12,6 +12,8 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcus.helvig.net" # the base hostname & protocol for your site, e.g. http://example.com
 
+timezone: Australia/Melbourne
+
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
