@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The blame game
-date: 2024-01-08 02:10:04 +1100
+date: 2024-01-08 02:10:04 +11:00
 category: autism
 tags: 
 - double empathy
@@ -16,7 +16,7 @@ But this kind of stuff goes further. Given that my Autism diagnosis was only 3 y
 
 Apart from that misinterpretation, there are also issues with assumptions made:
 1. It's just assumed that we just know what the needs of neurotypical people are, despite it being okay for them to not just know our needs.
-2. any masking that we do, such as not saying something when we really feel it's something important and think others should know, or suppress strong reactions to something that really affects or bothers us, is never seen nor recognised as us accomodating others' needs, despite the toll that masking takes on our mental health. It's therefore assumed that we are starting from a point of not trying to meet other's needs.
+2. any masking that we do, such as not saying something when we really feel it's something important and think others should know, or suppress strong reactions to something that really affects or bothers us, is never seen nor recognised as us accommodating others' needs, despite the toll that masking takes on our mental health. It's therefore assumed that we are starting from a point of not trying to meet other's needs.
 
 The thing is, we can have long conversations with others on the spectrum, or who have ADHD, and not have the issue of malice being ascribed to our words, despite us communicating in the same way, and saying the same things, and neurotypicals can communicate amongst themselves with less problems. 
 
