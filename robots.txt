@@ -34,7 +34,7 @@ Disallow:
 
 # Microsoft's Bing
 # 
-User-agent: Baiduspider
+User-agent: Bingbot
 Disallow:
 
 
