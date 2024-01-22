@@ -11,6 +11,7 @@ I'm a geek going way back. I've also recieved late-life diagnoses of Autism Spec
 ## Neurodiversity
 
 In late 2020 I was diagnosed with Autism and ADHD. The last three years have been a journey of self-discovery.  It's become clear to me recently how important, and affirming, it is to hear other's neurodiverse experiences. These pages will allow me to share my thoughts and experiences in the hope that others may see how I see the world, and hopefully gain some understand of themselves or others.
+
 ## Computing
 
 Computers are one of my biggest passions. I was jsut 10 year old when I wrote my first program with my dad. It was a simple program that told you how much older or younger you were than me. I come from the age where I had to hand optimise `autoexec.bat` and `config.sys` within an inch of its life to make sure I had enough memory in DOS to play games. This started a fascination with the lower levels of computing. 
