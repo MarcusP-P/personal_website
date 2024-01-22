@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hello World!
-date: 2023-12-30 22:51:50 +11:00
-modified_date: 2023-12-30 22:58:49 +11:00
+date: 2023-12-30T22:51:50+11:00
+modified_date: 2023-12-30T22:58:49+11:00
 category: meta
 tags: 
 - neurodiversity

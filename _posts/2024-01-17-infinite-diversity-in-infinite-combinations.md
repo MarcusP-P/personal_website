@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Infinite Diversity in Infinite Combinations
-date: 2024-01-17 22:05:54 +11:00
+date: 2024-01-17T22:05:54+11:00
+modified_date: 2024-01-22T17:20:11+11:00
 category: autism
 tags: 
 - star trek

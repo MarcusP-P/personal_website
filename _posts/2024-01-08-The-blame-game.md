@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The blame game
-date: 2024-01-08 02:10:04 +11:00
+date: 2024-01-08T02:10:04+11:00
+modified_date: 2024-01-09T20:30:09+11:00
 category: autism
 tags: 
 - double empathy
