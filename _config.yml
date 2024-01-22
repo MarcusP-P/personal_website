@@ -6,8 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  A place on the web to allow me to work through my thoughts by writing them down. This is a place that lets me unmask, and
-  post without needing to act as if I'm a neurotypical person.
+  A site of geekery, neurodiversity, and whatever I think is interesting.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marcus.helvig.net" # the base hostname & protocol for your site, e.g. http://example.com
