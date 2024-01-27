@@ -1,6 +1,7 @@
 ---
 layout: base
 title: "Test"
+sitemap: false
 ---
 
 # Test

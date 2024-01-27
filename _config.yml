@@ -20,11 +20,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-last-modified-at
-  - jekyll-sitemap
 
 collections:
   pages:
     output: true
+
+minimum_update: 2024-01-22T20:09:00+11:00
 
 exclude:
   - theme/

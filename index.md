@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Marcus Unmasked"
+sitemap_frequency: "daily"
 ---
 
 This site exists to allow me to work through my thoughts, by writing them down and clarifying them. All of these writings are my thoughts, and when I explain something, I may be simplifying the explanation, or explaining my understanding of something. If you want to explore any of these topics further, please refer to people working in the field, or people in the community. 
