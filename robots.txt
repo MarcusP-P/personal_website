@@ -56,6 +56,11 @@ Disallow:
 User-agent: ia_archiver
 Disallow:
 
+# Internet archive
+User-agent: archive.org_bot
+Disallow:
+
+
 # LinkedIn
 User-agent: LinkedInBot
 Disallow:
