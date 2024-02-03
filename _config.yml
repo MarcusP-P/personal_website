@@ -28,7 +28,7 @@ collections:
   pages:
     output: true
 
-minimum_update: 2024-01-28T00:43:07+11:00
+minimum_update: 2024-02-03T11:43:43+11:00
 
 exclude:
   - theme/
