@@ -13,8 +13,8 @@ url: "https://marcus.helvig.net" # the base hostname & protocol for your site, e
 
 timezone: Australia/Melbourne
 
-lang: "en_AU"
-locale: "en_AU"
+lang: "en-AU"
+locale: "en-AU"
 
 # If you clone the Minima repo and build locally, use this setting.
 theme: minima-custom
