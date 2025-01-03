@@ -1,4 +1,15 @@
-# Executive Dysfunction: an example
+---
+layout: post
+title: Executive Dysfunction: an example
+date: 2025-01-03T14:35:00+11:00
+category: neurodiversity
+tags: 
+- autism
+- adhd
+- executive function
+- executive dysfunction
+- my life
+---
 
 [Executive functions][1] are the "set of cognitive processes that support goal-directed behaviour". One of the symptoms of both ADHD and Autism Spectrum Disorder (ASD) is [executive dysfunction][2], which is an impairment of your executive functioning, which disrupts planning and goal setting behaviours. Executive dysfunction is believed to be the underlying issue that leads to [ADHD paralysis][3], which is where "simple tasks" can be seen as disproportionately massive tasks, and impossible to start.
 
