@@ -40,16 +40,16 @@ Before I describe how I would approach this task, I'd like the reader to just pl
         - Clean outer surface of laptop with towel
         - Notice dust on the screen
           - Clean the keyboard and screen of laptop
-        - iPad case has fingerprint
+        - Remember that my iPad case has fingerprints
           - Move iPad to other case
           - Clean iPad case inside and out
-          - Remember other iPad case isn't clean either
-          - Move iPad to newly cleaned case
-            - The back of the iPad isn't clean, so it will dirty the inside of newly cleaned case
-            - Clean back of iPad where it will magnet to clean case so clean case does not get dirty
-              - There is no point in cleaning just part of the iPad - I need to clean its front too
-                - Find special iPad screen [polishing cloth][4]
-                - Clean iPad screen
+          - Clean other iPad case
+            - Move iPad to newly cleaned case
+              - The back of the iPad isn't clean, so it will dirty the inside of newly cleaned case
+              - Clean back of iPad where it will magnet to clean case so clean case does not get dirty
+                - There is no point in cleaning just part of the iPad - I need to clean its front too
+                  - Find special iPad screen [polishing cloth][4]
+                  - Clean iPad screen
 - Remove car mats and wet vac them
   - I want to use the sanitising cleaning liquid, rather than the pet odour one, because I'm not worried about pet odours in the car, but I've never used this liquid before
     - Find the manual for the wet vac
@@ -70,11 +70,11 @@ Before I describe how I would approach this task, I'd like the reader to just pl
     - Clean each part of the container
   - Let the parts dry
 
-After about 2 hours, I now have the towels and cloths in the wash. The wash is a heavy duty cycle, with extra rinses to ensure that there is no trace of the detergent left on the towels and cloths. This cycle lasts 3 hours and 24 minutes, and that excludes the time in the dryer. The temperature is now 27°C outside, which is bordering on too hot to do any physical work.
+After about 2 hours, I now have the towels and cloths in the wash. The wash is a heavy duty cycle, with extra rinses to ensure that there is no trace of the detergent left on the towels and cloths, and to ensure that any grit removed from the larger towels doesn't end up on the glasses cloths. This cycle lasts 3 hours and 24 minutes, and that excludes the time in the dryer. The temperature is now 27°C outside, which is bordering on too hot to do any physical work.
 
 Not all of these tasks were in the initial planning - it wasn't until I was collecting the glasses cleaning rags that I noticed that some previous pairs of glasses were dirty too, so that got added, and I'm sure that while I'm looking and reading the manual for the wet vac, I'll either find something that needs cleaning or sorting, or something that I wasn't aware of in the use of the wet vac.
 
-It also hasn't occurred to me until writing this that while I'm waiting the towels to wash, I can clean items out of my car, find the manual for the wet vac, and wash the floors while mats.
+It also hasn't occurred to me until writing this that while I'm waiting the towels to wash, I can clean items out of my car, find the manual for the wet vac, and wash the floor mats, while I wait for the towels to wash.
 
 Also, notice that there is no re-assembly of the wet vac after the parts are all dry. It will take the best part of a day for these to dry, and they will be placed out of the way as they dry. With the [ADHD lack of object permanence][5], I will forget that the wet vac needs to be put back together, and will only remember when I'm in the area where it's out of the way, but the only reason I would be there is to do something else, that I could forget about if I stopped to re-assemble the wet vac.
 
