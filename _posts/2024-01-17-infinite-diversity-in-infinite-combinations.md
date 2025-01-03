@@ -3,11 +3,11 @@ layout: post
 title: Infinite Diversity in Infinite Combinations
 date: 2024-01-17T22:05:54+11:00
 modified_date: 2024-01-22T17:20:11+11:00
-category: autism
+category: neurodiversity
 tags: 
 - star trek
 - visibility
-- neurodiversity
+- autism
 ---
 
 I started writing this on USS Enterprise day (17/01). While I published it after midnight in my time zone, I consider it a win that it was still 17/01 somewhere in the world.

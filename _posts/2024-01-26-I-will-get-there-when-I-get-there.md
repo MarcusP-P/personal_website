@@ -2,10 +2,11 @@
 layout: post
 title: I will get there when I get there
 date: 2024-01-26T14:24:26+11:00
-category: accomodations
+category: neurdiversity
 tags: 
 - autism
 - adhd
+- accomodations
 ---
 
 At work, our team has started a discussion about accomodations for disability. This discussion has me considering the nature of accomodations, and I was reminded of an experience I recently had. Accomodations are was of doing things, or tools that support people with disabilities. People usually think of accomodations in terms of physical disabilities, such as  [captions](https://www.deafnessforum.org.au/what-is-captioning/) to help people with hearing impairments, [ramps](https://www.science.org/content/article/ramps-disabled-people-trace-back-ancient-greece) to assist people with mobility impairments, or [audible pedestrian buttons](https://www.visionaustralia.org/community/news/2023-02-02/history-pb5-crosswalk-button). People with cognitive impairments also require accomodations, and I've been very lucky that I work with an amazing team who have given me accomodations as needed.

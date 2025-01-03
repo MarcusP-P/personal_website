@@ -3,11 +3,11 @@ layout: post
 title: The blame game
 date: 2024-01-08T02:10:04+11:00
 modified_date: 2024-01-09T20:30:09+11:00
-category: autism
+category: neurodiversity
 tags: 
+- autism
 - double empathy
 - communication 
-- neurotypical communication
 ---
 Before I start, I just want to say that I make blanket statements below. I want to acknowledge up-front that I know that despite how it comes across, I do not think it applies to all interactions between neurotypical people and neurodiverse people, or even most. Of course, given that research has shown that neurotypical people make very quick negative snap judgements about autistics, I can only assume that in our interactions people have not had those thoughts.
 

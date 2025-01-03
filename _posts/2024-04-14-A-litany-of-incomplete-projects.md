@@ -2,8 +2,9 @@
 layout: post
 title: A litany of incomplete projects
 date: 2024-04-14T16:00:26+10:00
-category: ADHD
+category: neurodiversity
 tags: 
+- adhd
 - projects
 - attention
 - dopamine
