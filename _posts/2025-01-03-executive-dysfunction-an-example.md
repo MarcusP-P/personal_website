@@ -2,6 +2,7 @@
 layout: post
 title: "Executive Dysfunction: an example"
 date: 2025-01-03T14:35:00+11:00
+modified_date: 2025-01-03T15:07:00+11:00
 category: neurodiversity
 tags: 
 - autism
@@ -51,6 +52,7 @@ Before I describe how I would approach this task, I'd like the reader to just pl
                 - There is no point in cleaning just part of the iPad - I need to clean its front too
                   - Find special iPad screen [polishing cloth][4]
                   - Clean iPad screen
+    - Put washed microfibre towels in the drier
 - Remove car mats and wet vac them
   - I want to use the sanitising cleaning liquid, rather than the pet odour one, because I'm not worried about pet odours in the car, but I've never used this liquid before
     - Find the manual for the wet vac
