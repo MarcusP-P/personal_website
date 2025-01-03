@@ -25,6 +25,7 @@ Before I describe how I would approach this task, I'd like the reader to just pl
   - I need clean microfibre towels to clean these surfaces, but the microfibre towels are all dirty
     - Wash Microfibre towels
       - Empty the clothes dryer
+	    - Ignore the drier asking to be put on a 90 minute cleaning cycle, so that I can feel guilty about not having done it, which wil then add to the guilt assosicated with that taks making it harder to start in the future
       - Transfer washing from washing machine to dryer and start dryer
       - Collect all microfibre cloths
       - Ensure I include my microfibre glasses cleaning cloths, because some are have absorbed enough dirt that using them only smears the glasses
