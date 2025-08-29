@@ -16,7 +16,7 @@ tags:
 
 Others have commented on my ability to get stuck in the weeds, which is an example of executive dysfunction not allowing me to follow a simple path, without going into too much depth. I've tried in the past to explain why some tasks, that others consider simple and quick, seem insurmountable, but I don't think I've ever been able to explain it clearly enough to understand. Today I experienced an example, and had the presence of mind to document the process, and demonstrate how executive dysfunction can disrupt what could bee seen as a relatively simple task.
 
-Today the expected high will be 31°C, and in the next two days will be 36°C and 38°C, which will allow the carpets to dry quickly. At 11 AM, when I started the process, the temperature was 18°C, where I could wash the floors while it was cool, and then let the heat dry them out.
+My plan today was to fully clean the inside of my car, including using a carpet washer to clean the floors. Today the expected high will be 31°C, and in the next two days will be 36°C and 38°C, which will allow the carpets to dry quickly. At 11 AM, when I started the process, the temperature was 18°C, where I could wash the floors while it was cool, and then let the heat dry them out.
 
 Before I describe how I would approach this task, I'd like the reader to just plan this task out, and see how many steps it takes, and at the end compare it to the steps my brain sees are needed to perform the task:
 
@@ -26,7 +26,7 @@ Before I describe how I would approach this task, I'd like the reader to just pl
   - I need clean microfibre towels to clean these surfaces, but the microfibre towels are all dirty
     - Wash Microfibre towels
       - Empty the clothes dryer
-	    - Ignore the drier asking to be put on a 90 minute cleaning cycle, so that I can feel guilty about not having done it, which wil then add to the guilt assosicated with that taks making it harder to start in the future
+      - Ignore the drier asking to be put on a 90 minute cleaning cycle, so that I can feel guilty about not having done it, which wil then add to the guilt assosicated with that taks making it harder to start in the future
       - Transfer washing from washing machine to dryer and start dryer
       - Collect all microfibre cloths
       - Ensure I include my microfibre glasses cleaning cloths, because some are have absorbed enough dirt that using them only smears the glasses
@@ -79,9 +79,9 @@ Not all of these tasks were in the initial planning - it wasn't until I was coll
 
 It also hasn't occurred to me until writing this that while I'm waiting the towels to wash, I can clean items out of my car, find the manual for the wet vac, and wash the floor mats, while I wait for the towels to wash.
 
-Also, notice that there is no re-assembly of the wet vac after the parts are all dry. It will take the best part of a day for these to dry, and they will be placed out of the way as they dry. With the [ADHD lack of object permanence][5], I will forget that the wet vac needs to be put back together, and will only remember when I'm in the area where it's out of the way, but the only reason I would be there is to do something else, that I could forget about if I stopped to re-assemble the wet vac.
+Also, notice that there is no re-assembly of the wet vac after the parts are all dry. It will take the best part of a day for these to dry, and they will be placed out of the way as they dry. With, what is called, the [ADHD lack of object permanence][5], I will forget that the wet vac needs to be put back together, and will only remember when I'm in the area where it's out of the way, but the only reason I would be there is to do something else, that I could forget about if I stopped to re-assemble the wet vac.
 
-A lot of well-meaning people come up with suggestions that [boil down to][6] "Oh, why don;t you just use [this executive dysfunction] to overcome your executive dysfunction." This type of response shows that the person giving the advice has not understood the concept of executive dysfunction in the first place. There are [ways of improving][2] executive dysfunction, but they are not simple fixes.
+A lot of well-meaning people come up with suggestions that [boil down to][6] "Oh, why don;t you just use [process relying on a working executive function] to overcome your executive dysfunction." This type of response shows that the person giving the advice has not understood the concept of executive dysfunction in the first place. There are [ways of improving][2] executive dysfunction, but they are not simple fixes.
 
 I just want to leave you with one of the most entertaining descriptions of executive dysfunction that I've come across in a [tumblr post by chaotic-neutral-knitter][7]:
 
