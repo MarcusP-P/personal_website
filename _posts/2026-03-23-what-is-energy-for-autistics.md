@@ -6,6 +6,7 @@ tags:
 - autism
 - energy 
 - spoons
+excerpt_separator: <!--more-->
 ---
 
 While this article was written as part of my employer's development day, all opinions are mine alone.
@@ -13,6 +14,7 @@ While this article was written as part of my employer's development day, all opi
 Before I begin, Autism and ADHD is different for everyone. I make some general statements here, but remember they don’t apply to everyone. This was written in one session, without planning where it would go. The style of writing changes as my emotions grew stronger throughout writing; I could edit it, but that is just as important to convey.
 
 As someone who was diagnosed with Autism and ADHD (abbreviated to AuDHD) in my mid 40s, I'm still learning to understand what being AuDHD means on a practical day-to-day level. Over the last six months, or so, I've been starting to understand my energy levels, and my resilience.
+<!--more-->
 
 I know the word "energy" can sound wooish, but I use it in a similar way to spoons in [spoon theory](https://en.wikipedia.org/wiki/Spoon_theory), but it could also be thought of as my level of resilience. It's just a shortcut that I use to explain to others. Other phrases I use to describe low resilience is being deregulated, or in a heightened state.
 
