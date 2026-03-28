@@ -2,6 +2,8 @@
 layout: post
 title: "What do I mean when I talk about energy, anyway?"
 category: neurodiversity
+date: 2026-03-23T14:03:43+11:00
+modified_date: 2026-03-23T14:07:00+11:00
 tags: 
 - autism
 - energy 
