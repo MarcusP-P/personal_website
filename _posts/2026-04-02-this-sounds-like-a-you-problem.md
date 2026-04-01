@@ -3,7 +3,7 @@ layout: post
 title: "This sounds like a you problem"
 category: neurodiversity
 date: 2026-04-02T07:54:05+11:00
-modified_date: 2026-04-02T07:52:00+11:00
+#modified_date: 2026-04-02T07:52:00+11:00
 tags: 
 - autism
 - energy 
