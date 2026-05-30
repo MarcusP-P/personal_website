@@ -13,7 +13,7 @@ gem 'jekyll', '~> 4.3', '>= 4.3.3'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
-gem "minima-custom", "~> 3.0.dev", :path => "./theme"
+gem "minima", "~> 3.0.dev", :path => "./theme"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
