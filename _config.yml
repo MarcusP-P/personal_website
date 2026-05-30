@@ -58,6 +58,10 @@ minima-custom:
   # Generate social links in footer.
   social_links:
     -
+      platform: signal
+      title: Signal
+      user_url: "https://signal.me/#eu/aIZYL48Wl385C_HKJ5TxZJVESCPa-FxIFwqFOSdpJQbqkvVBGJtCT7d8KPxkiw0P"
+    -
       platform: mastodon
       title: Mastodon
       user_url: "https://mastodon.social/@MarcusP"
